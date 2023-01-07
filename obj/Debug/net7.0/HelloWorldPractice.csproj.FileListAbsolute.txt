@@ -1,0 +1,15 @@
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\bin\Debug\net7.0\HelloWorldPractice.exe
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\bin\Debug\net7.0\HelloWorldPractice.deps.json
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\bin\Debug\net7.0\HelloWorldPractice.runtimeconfig.json
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\bin\Debug\net7.0\HelloWorldPractice.dll
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\bin\Debug\net7.0\HelloWorldPractice.pdb
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.csproj.AssemblyReference.cache
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.AssemblyInfoInputs.cache
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.AssemblyInfo.cs
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.csproj.CoreCompileInputs.cache
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.dll
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\refint\HelloWorldPractice.dll
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.pdb
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\HelloWorldPractice.genruntimeconfig.cache
+C:\Users\sandt\Desktop\Coding School\repos\HelloWorldPractice\HelloWorldPractice\obj\Debug\net7.0\ref\HelloWorldPractice.dll
